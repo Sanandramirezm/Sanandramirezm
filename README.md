@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 ### 📊 AI & Data Analytics:
@@ -55,6 +53,19 @@
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
 
+## 🛠 Tools & Frameworks:
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ---
 
 ## 📌 Featured Projects:
@@ -73,8 +84,16 @@
 - 📌 **Machine Learning with TensorFlow & PyTorch** → [View Certificate](https://coursera.org/share/3d408ca5718782161965e671664f21e5)  
 - 📌 **Deep Learning Specialization** → [View Certificate](https://coursera.org/share/f303cae5100ca6e7ec96c55e007febec)  
 
-
 ---
+
+## ⚙ My Favorite Tech Stack
+  | Category | Tools |
+  |----------|-------|
+  | **Frontend** | Vue.js, JavaScript, HTML, CSS |
+  | **Backend** | Node.js, Python, Java |
+  | **Databases** | PostgreSQL, MySQL, MongoDB |
+  | **AI & Data** | TensorFlow, PyTorch, Scikit-Learn, Power BI |
+  | **DevOps & Others** | Docker, Linux, Git |
 
 ## 🌎 Connect with me:
 <p align="center">
