@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Sanandramirezm/Sanandramirezm/blob/main/DALL%C2%B7E%202025-01-29%2019.20.10%20-%20A%20futuristic%20AI-themed%20banner%20with%20the%20name%20'Santiago'%20in%20bold%2C%20modern%20typography.%20The%20background%20features%20a%20high-tech%2C%20abstract%20AI%20design%20with%20neural.webp" alt="Santiago AI Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, my name is Santiago 👋</h1>
 
 <p align="center">
@@ -54,9 +58,11 @@
 ---
 
 ## 📌 Featured Projects:
-- 🔹 [**AI Image Recognition System**](https://github.com/user/project1) - Built a deep learning model for real-time image classification.  
-- 🔹 [**Big Data Dashboard with Power BI**](https://github.com/user/project2) - Developed a BI dashboard with predictive analytics.  
-- 🔹 [**Machine Learning-based Stock Prediction**](https://github.com/user/project3) - Predicting stock trends using ML models. 
+- 🐾 **[Base de Datos - MyPets](https://github.com/Sanandramirezm/Base-de-datos-Mypets)**  
+  _A structured database project for managing pet-related data efficiently._  
+
+- 🎵 **[Cálculo de Armónicos](https://github.com/Sanandramirezm/Calculo-Armonicos)**  
+  _A project focused on harmonic analysis and signal processing._  
 
 ---
 
